@@ -401,3 +401,6 @@ button {
     cursor: pointer;
     border: none;
 }
+.balloon {
+    z-index: 7;
+}
